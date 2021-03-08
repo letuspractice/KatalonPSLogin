@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cleanup any values and close browser</description>
+   <name>Exit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5655014c-408c-4273-bc10-065d9c6494d6</testCaseGuid>
+</TestCaseEntity>

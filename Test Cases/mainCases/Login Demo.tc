@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Combine the subCases to login to Peoplesoft</description>
+   <name>Login Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90dc5de1-0fc1-4add-9ec3-f010be6cfdcb</testCaseGuid>
+</TestCaseEntity>

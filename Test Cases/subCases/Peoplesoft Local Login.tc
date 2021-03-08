@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If this is an applicant or local account use this process</description>
+   <name>Peoplesoft Local Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>651a21cd-292f-406a-95a5-94704f498338</testCaseGuid>
+</TestCaseEntity>
